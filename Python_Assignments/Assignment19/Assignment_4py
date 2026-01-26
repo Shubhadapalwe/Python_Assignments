@@ -1,0 +1,23 @@
+def AcceptList():
+    n = int(input("Enter number of elements: "))
+    Data = []
+    for i in range(n):
+        value = int(input("Enter element: "))
+        Data.append(value)
+    return Data
+
+def Frequency(Data, No):
+    count = 0
+    for x in Data:
+        if x == No:
+            count = count + 1
+    return count
+
+def main():
+    Data = AcceptList()
+    search = int(input("Enter element to search: "))
+    result = Frequency(Data, search)
+    print("Frequency is:", result)
+
+if __name__ == "__main__":
+    main()
