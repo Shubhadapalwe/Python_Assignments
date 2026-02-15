@@ -1,0 +1,2607 @@
+------------------------------------------------------------
+---- Marvellous Platform Surveillance System -----
+Log created at: Sun Feb 15 08:57:18 2026
+------------------------------------------------------------
+
+----------------- System Report ------------------
+CPU Usage: 10.30 %
+RAM Usage: 77.10 %
+------------------------------------------------------------
+
+Disk Usage Report
+------------------------------------------------------------
+/ -> 15.20 % used
+/System/Volumes/VM -> 0.00 % used
+/System/Volumes/Preboot -> 13.40 % used
+/System/Volumes/Update -> 0.80 % used
+/System/Volumes/xarts -> 1.20 % used
+/System/Volumes/iSCPreboot -> 1.10 % used
+/System/Volumes/Hardware -> 0.10 % used
+/System/Volumes/Data -> 52.60 % used
+/System/Volumes/Update/mnt1 -> 15.20 % used
+------------------------------------------------------------
+
+Network Usage Report
+Sent: 27.06 MB
+Recv: 860.78 MB
+------------------------------------------------------------
+
+Top 10 Memory Consuming Processes (by RSS)
+------------------------------------------------------------
+Google Chrome Helper (Renderer) (PID 825) -> RSS: 517.67 MB | VMS: 1823726.33 MB | Mem%: 6.32%
+Code Helper (Plugin) (PID 1746) -> RSS: 309.98 MB | VMS: 1824856.84 MB | Mem%: 3.78%
+Code Helper (Renderer) (PID 1575) -> RSS: 280.11 MB | VMS: 1841363.83 MB | Mem%: 3.42%
+Google Chrome Helper (Renderer) (PID 1067) -> RSS: 278.95 MB | VMS: 1823692.69 MB | Mem%: 3.41%
+ChatGPT (PID 1159) -> RSS: 200.98 MB | VMS: 407325.34 MB | Mem%: 2.45%
+Google Chrome (PID 717) -> RSS: 179.47 MB | VMS: 499916.08 MB | Mem%: 2.19%
+Electron (PID 1265) -> RSS: 155.95 MB | VMS: 1823844.94 MB | Mem%: 1.90%
+Google Chrome Helper (Renderer) (PID 1461) -> RSS: 155.72 MB | VMS: 1825165.00 MB | Mem%: 1.90%
+Code Helper (Plugin) (PID 1590) -> RSS: 125.88 MB | VMS: 1823273.25 MB | Mem%: 1.54%
+Terminal (PID 1822) -> RSS: 105.81 MB | VMS: 402478.38 MB | Mem%: 1.29%
+------------------------------------------------------------
+
+Expected Output in Log File (Per Process Entry)
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: loginwindow
+PID: 166
+CPU %: 0.00
+Memory (RSS): 16.25 MB
+Memory (VMS): 402030.16 MB
+Memory %: 0.20
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: distnoted
+PID: 380
+CPU %: 0.00
+Memory (RSS): 3.86 MB
+Memory (VMS): 416910.78 MB
+Memory %: 0.05
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: cfprefsd
+PID: 381
+CPU %: 0.00
+Memory (RSS): 4.91 MB
+Memory (VMS): 416912.64 MB
+Memory %: 0.06
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: UserEventAgent
+PID: 383
+CPU %: 0.00
+Memory (RSS): 13.44 MB
+Memory (VMS): 416946.12 MB
+Memory %: 0.16
+Threads Count: 2
+Open Files Count: Access Denied
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: neagent
+PID: 387
+CPU %: 0.00
+Memory (RSS): 12.62 MB
+Memory (VMS): 416952.81 MB
+Memory %: 0.15
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: CoreServicesUIAgent
+PID: 388
+CPU %: 0.00
+Memory (RSS): 38.88 MB
+Memory (VMS): 402337.97 MB
+Memory %: 0.47
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: universalaccessd
+PID: 389
+CPU %: 0.00
+Memory (RSS): 11.84 MB
+Memory (VMS): 401341.97 MB
+Memory %: 0.14
+Threads Count: 5
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: pboard
+PID: 391
+CPU %: 0.00
+Memory (RSS): 8.95 MB
+Memory (VMS): 416921.06 MB
+Memory %: 0.11
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: BackgroundTaskManagementAgent
+PID: 392
+CPU %: 0.00
+Memory (RSS): 10.75 MB
+Memory (VMS): 416961.34 MB
+Memory %: 0.13
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: imklaunchagent
+PID: 393
+CPU %: 0.00
+Memory (RSS): 9.98 MB
+Memory (VMS): 401068.45 MB
+Memory %: 0.12
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: pkd
+PID: 394
+CPU %: 0.00
+Memory (RSS): 12.53 MB
+Memory (VMS): 416953.09 MB
+Memory %: 0.15
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: lsd
+PID: 395
+CPU %: 0.00
+Memory (RSS): 14.31 MB
+Memory (VMS): 416954.00 MB
+Memory %: 0.17
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: talagentd
+PID: 396
+CPU %: 0.00
+Memory (RSS): 12.34 MB
+Memory (VMS): 416960.62 MB
+Memory %: 0.15
+Threads Count: 2
+Open Files Count: 11
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: WindowManager
+PID: 397
+CPU %: 0.00
+Memory (RSS): 23.70 MB
+Memory (VMS): 402134.34 MB
+Memory %: 0.29
+Threads Count: 5
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Dock
+PID: 398
+CPU %: 0.00
+Memory (RSS): 23.88 MB
+Memory (VMS): 402188.16 MB
+Memory %: 0.29
+Threads Count: 4
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ControlCenter
+PID: 399
+CPU %: 0.00
+Memory (RSS): 42.77 MB
+Memory (VMS): 402095.58 MB
+Memory %: 0.52
+Threads Count: 6
+Open Files Count: 8
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: nsurlsessiond
+PID: 402
+CPU %: 0.00
+Memory (RSS): 11.94 MB
+Memory (VMS): 416950.33 MB
+Memory %: 0.15
+Threads Count: 6
+Open Files Count: Access Denied
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: usernoted
+PID: 403
+CPU %: 0.00
+Memory (RSS): 12.34 MB
+Memory (VMS): 416955.97 MB
+Memory %: 0.15
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: CommCenter
+PID: 404
+CPU %: 0.00
+Memory (RSS): 13.00 MB
+Memory (VMS): 416957.19 MB
+Memory %: 0.16
+Threads Count: 6
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: routined
+PID: 405
+CPU %: 0.00
+Memory (RSS): 21.77 MB
+Memory (VMS): 416951.80 MB
+Memory %: 0.27
+Threads Count: 2
+Open Files Count: Access Denied
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: SystemUIServer
+PID: 406
+CPU %: 0.00
+Memory (RSS): 27.83 MB
+Memory (VMS): 401743.70 MB
+Memory %: 0.34
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: rapportd
+PID: 407
+CPU %: 0.00
+Memory (RSS): 17.12 MB
+Memory (VMS): 416951.20 MB
+Memory %: 0.21
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: lockoutagent
+PID: 408
+CPU %: 0.00
+Memory (RSS): 5.81 MB
+Memory (VMS): 416943.97 MB
+Memory %: 0.07
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Finder
+PID: 409
+CPU %: 0.00
+Memory (RSS): 65.11 MB
+Memory (VMS): 402561.44 MB
+Memory %: 0.79
+Threads Count: 5
+Open Files Count: 5
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: csnameddatad
+PID: 411
+CPU %: 0.00
+Memory (RSS): 2.11 MB
+Memory (VMS): 416910.84 MB
+Memory %: 0.03
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ContextStoreAgent
+PID: 413
+CPU %: 0.00
+Memory (RSS): 23.64 MB
+Memory (VMS): 416964.03 MB
+Memory %: 0.29
+Threads Count: 6
+Open Files Count: Access Denied
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: secd
+PID: 414
+CPU %: 0.00
+Memory (RSS): 13.12 MB
+Memory (VMS): 416951.77 MB
+Memory %: 0.16
+Threads Count: 2
+Open Files Count: 12
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: secinitd
+PID: 415
+CPU %: 0.00
+Memory (RSS): 7.30 MB
+Memory (VMS): 416953.98 MB
+Memory %: 0.09
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: dmd
+PID: 416
+CPU %: 0.00
+Memory (RSS): 6.52 MB
+Memory (VMS): 416948.70 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: Access Denied
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: QuickLookUIService
+PID: 417
+CPU %: 0.00
+Memory (RSS): 13.31 MB
+Memory (VMS): 416896.94 MB
+Memory %: 0.16
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: com.apple.quicklook.ThumbnailsAgent
+PID: 418
+CPU %: 0.00
+Memory (RSS): 14.80 MB
+Memory (VMS): 417463.42 MB
+Memory %: 0.18
+Threads Count: 3
+Open Files Count: Access Denied
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: WallpaperAgent
+PID: 419
+CPU %: 0.00
+Memory (RSS): 12.92 MB
+Memory (VMS): 401885.89 MB
+Memory %: 0.16
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: siriactionsd
+PID: 422
+CPU %: 0.00
+Memory (RSS): 13.66 MB
+Memory (VMS): 416965.58 MB
+Memory %: 0.17
+Threads Count: 2
+Open Files Count: 8
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: CoreLocationAgent
+PID: 423
+CPU %: 0.00
+Memory (RSS): 31.67 MB
+Memory (VMS): 417099.67 MB
+Memory %: 0.39
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: bird
+PID: 424
+CPU %: 0.00
+Memory (RSS): 9.17 MB
+Memory (VMS): 416944.41 MB
+Memory %: 0.11
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: trustd
+PID: 425
+CPU %: 0.00
+Memory (RSS): 12.22 MB
+Memory (VMS): 416948.34 MB
+Memory %: 0.15
+Threads Count: 2
+Open Files Count: 18
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: sharedfilelistd
+PID: 427
+CPU %: 0.00
+Memory (RSS): 9.45 MB
+Memory (VMS): 416945.59 MB
+Memory %: 0.12
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: containermanagerd
+PID: 428
+CPU %: 0.00
+Memory (RSS): 4.61 MB
+Memory (VMS): 416942.69 MB
+Memory %: 0.06
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: com.apple.hiservices-xpcservice
+PID: 429
+CPU %: 0.00
+Memory (RSS): 3.64 MB
+Memory (VMS): 416910.95 MB
+Memory %: 0.04
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: usernotificationsd
+PID: 430
+CPU %: 0.00
+Memory (RSS): 9.20 MB
+Memory (VMS): 416944.67 MB
+Memory %: 0.11
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: suggestd
+PID: 432
+CPU %: 0.00
+Memory (RSS): 20.45 MB
+Memory (VMS): 416987.41 MB
+Memory %: 0.25
+Threads Count: 3
+Open Files Count: 32
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: calaccessd
+PID: 433
+CPU %: 0.00
+Memory (RSS): 16.30 MB
+Memory (VMS): 416959.95 MB
+Memory %: 0.20
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: tccd
+PID: 434
+CPU %: 0.00
+Memory (RSS): 9.98 MB
+Memory (VMS): 416954.22 MB
+Memory %: 0.12
+Threads Count: 2
+Open Files Count: 1
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: callservicesd
+PID: 435
+CPU %: 0.00
+Memory (RSS): 17.06 MB
+Memory (VMS): 416960.33 MB
+Memory %: 0.21
+Threads Count: 5
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: fileproviderd
+PID: 437
+CPU %: 0.00
+Memory (RSS): 12.22 MB
+Memory (VMS): 416965.23 MB
+Memory %: 0.15
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: AMPDeviceDiscoveryAgent
+PID: 438
+CPU %: 0.00
+Memory (RSS): 4.55 MB
+Memory (VMS): 416955.05 MB
+Memory %: 0.06
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: iconservicesagent
+PID: 439
+CPU %: 0.00
+Memory (RSS): 12.30 MB
+Memory (VMS): 416968.06 MB
+Memory %: 0.15
+Threads Count: 4
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ContinuityCaptureAgent
+PID: 440
+CPU %: 0.00
+Memory (RSS): 10.02 MB
+Memory (VMS): 416944.67 MB
+Memory %: 0.12
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: accountsd
+PID: 442
+CPU %: 0.00
+Memory (RSS): 8.72 MB
+Memory (VMS): 416947.28 MB
+Memory %: 0.11
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: identityservicesd
+PID: 443
+CPU %: 0.00
+Memory (RSS): 18.45 MB
+Memory (VMS): 416967.34 MB
+Memory %: 0.23
+Threads Count: 3
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: WiFiAgent
+PID: 444
+CPU %: 0.00
+Memory (RSS): 32.83 MB
+Memory (VMS): 417100.02 MB
+Memory %: 0.40
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: triald
+PID: 445
+CPU %: 0.00
+Memory (RSS): 13.48 MB
+Memory (VMS): 416947.16 MB
+Memory %: 0.16
+Threads Count: 2
+Open Files Count: 5
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ViewBridgeAuxiliary
+PID: 448
+CPU %: 0.00
+Memory (RSS): 11.16 MB
+Memory (VMS): 400877.94 MB
+Memory %: 0.14
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: PAH_Extension
+PID: 449
+CPU %: 0.00
+Memory (RSS): 13.89 MB
+Memory (VMS): 416970.81 MB
+Memory %: 0.17
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: deleted
+PID: 450
+CPU %: 0.00
+Memory (RSS): 10.31 MB
+Memory (VMS): 416945.22 MB
+Memory %: 0.13
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: donotdisturbd
+PID: 452
+CPU %: 0.00
+Memory (RSS): 13.14 MB
+Memory (VMS): 416950.20 MB
+Memory %: 0.16
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: intelligentroutingd
+PID: 454
+CPU %: 0.00
+Memory (RSS): 10.00 MB
+Memory (VMS): 416947.97 MB
+Memory %: 0.12
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: audioaccessoryd
+PID: 455
+CPU %: 0.00
+Memory (RSS): 18.41 MB
+Memory (VMS): 416946.80 MB
+Memory %: 0.22
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: WallpaperImageExtension
+PID: 458
+CPU %: 0.00
+Memory (RSS): 7.12 MB
+Memory (VMS): 401239.33 MB
+Memory %: 0.09
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: replayd
+PID: 459
+CPU %: 0.00
+Memory (RSS): 12.98 MB
+Memory (VMS): 416968.88 MB
+Memory %: 0.16
+Threads Count: 4
+Open Files Count: 4
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: cloudd
+PID: 465
+CPU %: 0.00
+Memory (RSS): 16.34 MB
+Memory (VMS): 416957.48 MB
+Memory %: 0.20
+Threads Count: 4
+Open Files Count: 6
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: syncdefaultsd
+PID: 467
+CPU %: 0.00
+Memory (RSS): 8.11 MB
+Memory (VMS): 416948.86 MB
+Memory %: 0.10
+Threads Count: 2
+Open Files Count: 12
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ctkd
+PID: 468
+CPU %: 0.00
+Memory (RSS): 7.86 MB
+Memory (VMS): 416943.77 MB
+Memory %: 0.10
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ScreenTimeAgent
+PID: 469
+CPU %: 0.00
+Memory (RSS): 13.34 MB
+Memory (VMS): 416954.05 MB
+Memory %: 0.16
+Threads Count: 2
+Open Files Count: Access Denied
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: useractivityd
+PID: 471
+CPU %: 0.00
+Memory (RSS): 8.55 MB
+Memory (VMS): 416912.66 MB
+Memory %: 0.10
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: com.apple.dock.extra
+PID: 473
+CPU %: 0.00
+Memory (RSS): 37.77 MB
+Memory (VMS): 401271.91 MB
+Memory %: 0.46
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: knowledge-agent
+PID: 474
+CPU %: 0.00
+Memory (RSS): 17.92 MB
+Memory (VMS): 416953.81 MB
+Memory %: 0.22
+Threads Count: 2
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: fontd
+PID: 475
+CPU %: 0.00
+Memory (RSS): 6.17 MB
+Memory (VMS): 416944.34 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: sharingd
+PID: 476
+CPU %: 0.00
+Memory (RSS): 18.61 MB
+Memory (VMS): 416961.47 MB
+Memory %: 0.23
+Threads Count: 3
+Open Files Count: 1
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: UIKitSystem
+PID: 477
+CPU %: 0.00
+Memory (RSS): 17.47 MB
+Memory (VMS): 401639.33 MB
+Memory %: 0.21
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: networkserviceproxy
+PID: 478
+CPU %: 0.00
+Memory (RSS): 15.95 MB
+Memory (VMS): 416956.09 MB
+Memory %: 0.19
+Threads Count: 3
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: fontworker
+PID: 479
+CPU %: 0.00
+Memory (RSS): 7.14 MB
+Memory (VMS): 416966.41 MB
+Memory %: 0.09
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: milod
+PID: 481
+CPU %: 0.00
+Memory (RSS): 10.95 MB
+Memory (VMS): 416949.98 MB
+Memory %: 0.13
+Threads Count: 2
+Open Files Count: 7
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ctkahp
+PID: 483
+CPU %: 0.00
+Memory (RSS): 3.33 MB
+Memory (VMS): 416910.44 MB
+Memory %: 0.04
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: chronod
+PID: 486
+CPU %: 0.00
+Memory (RSS): 22.67 MB
+Memory (VMS): 416965.27 MB
+Memory %: 0.28
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: NotificationCenter
+PID: 487
+CPU %: 0.00
+Memory (RSS): 34.12 MB
+Memory (VMS): 402101.08 MB
+Memory %: 0.42
+Threads Count: 4
+Open Files Count: 1
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Spotlight
+PID: 490
+CPU %: 0.00
+Memory (RSS): 38.20 MB
+Memory (VMS): 402354.48 MB
+Memory %: 0.47
+Threads Count: 7
+Open Files Count: 5
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: com.apple.geod
+PID: 494
+CPU %: 0.00
+Memory (RSS): 10.06 MB
+Memory (VMS): 416952.44 MB
+Memory %: 0.12
+Threads Count: 3
+Open Files Count: 6
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: corespotlightd
+PID: 495
+CPU %: 0.00
+Memory (RSS): 29.98 MB
+Memory (VMS): 421373.25 MB
+Memory %: 0.37
+Threads Count: 5
+Open Files Count: 56
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: CursorUIViewService
+PID: 496
+CPU %: 0.00
+Memory (RSS): 18.06 MB
+Memory (VMS): 401376.31 MB
+Memory %: 0.22
+Threads Count: 5
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: pbs
+PID: 498
+CPU %: 0.00
+Memory (RSS): 5.92 MB
+Memory (VMS): 416953.31 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: localizationswitcherd
+PID: 499
+CPU %: 0.00
+Memory (RSS): 5.45 MB
+Memory (VMS): 416944.09 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: contactsd
+PID: 500
+CPU %: 0.00
+Memory (RSS): 8.61 MB
+Memory (VMS): 416949.12 MB
+Memory %: 0.11
+Threads Count: 3
+Open Files Count: 8
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: extensionkitservice
+PID: 502
+CPU %: 0.00
+Memory (RSS): 9.81 MB
+Memory (VMS): 416920.88 MB
+Memory %: 0.12
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: parsecd
+PID: 503
+CPU %: 0.00
+Memory (RSS): 13.84 MB
+Memory (VMS): 416949.22 MB
+Memory %: 0.17
+Threads Count: 2
+Open Files Count: 1
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: WeatherWidget
+PID: 504
+CPU %: 0.00
+Memory (RSS): 53.48 MB
+Memory (VMS): 417221.42 MB
+Memory %: 0.65
+Threads Count: 7
+Open Files Count: 17
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: CalendarWidgetExtension
+PID: 505
+CPU %: 0.00
+Memory (RSS): 16.56 MB
+Memory (VMS): 417140.45 MB
+Memory %: 0.20
+Threads Count: 7
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: UsageTrackingAgent
+PID: 506
+CPU %: 0.00
+Memory (RSS): 11.44 MB
+Memory (VMS): 416945.25 MB
+Memory %: 0.14
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: StocksWidget
+PID: 507
+CPU %: 0.00
+Memory (RSS): 33.73 MB
+Memory (VMS): 417211.36 MB
+Memory %: 0.41
+Threads Count: 10
+Open Files Count: 17
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ManagedSettingsAgent
+PID: 508
+CPU %: 0.00
+Memory (RSS): 3.70 MB
+Memory (VMS): 416911.88 MB
+Memory %: 0.05
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ScreenTimeWidgetExtension
+PID: 510
+CPU %: 0.00
+Memory (RSS): 37.69 MB
+Memory (VMS): 417008.22 MB
+Memory %: 0.46
+Threads Count: 9
+Open Files Count: 5
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: heard
+PID: 512
+CPU %: 0.00
+Memory (RSS): 23.42 MB
+Memory (VMS): 416951.05 MB
+Memory %: 0.29
+Threads Count: 4
+Open Files Count: 7
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: corespeechd
+PID: 513
+CPU %: 1.70
+Memory (RSS): 19.55 MB
+Memory (VMS): 416999.12 MB
+Memory %: 0.24
+Threads Count: 9
+Open Files Count: 1
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: axassetsd
+PID: 514
+CPU %: 0.00
+Memory (RSS): 11.03 MB
+Memory (VMS): 416945.52 MB
+Memory %: 0.13
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: BiomeAgent
+PID: 516
+CPU %: 0.00
+Memory (RSS): 15.66 MB
+Memory (VMS): 416945.86 MB
+Memory %: 0.19
+Threads Count: 4
+Open Files Count: 6
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Siri
+PID: 519
+CPU %: 0.00
+Memory (RSS): 20.56 MB
+Memory (VMS): 401613.05 MB
+Memory %: 0.25
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: icdd
+PID: 520
+CPU %: 0.00
+Memory (RSS): 3.27 MB
+Memory (VMS): 416943.53 MB
+Memory %: 0.04
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: AirPlayUIAgent
+PID: 524
+CPU %: 0.00
+Memory (RSS): 10.39 MB
+Memory (VMS): 401473.88 MB
+Memory %: 0.13
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: imagent
+PID: 525
+CPU %: 0.00
+Memory (RSS): 18.72 MB
+Memory (VMS): 416951.88 MB
+Memory %: 0.23
+Threads Count: 4
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: postgres
+PID: 526
+CPU %: 0.00
+Memory (RSS): 4.45 MB
+Memory (VMS): 401448.16 MB
+Memory %: 0.05
+Threads Count: 1
+Open Files Count: 2
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: diagnostics_agent
+PID: 528
+CPU %: 0.00
+Memory (RSS): 12.22 MB
+Memory (VMS): 416945.78 MB
+Memory %: 0.15
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: TextInputMenuAgent
+PID: 529
+CPU %: 0.00
+Memory (RSS): 40.09 MB
+Memory (VMS): 402048.69 MB
+Memory %: 0.49
+Threads Count: 3
+Open Files Count: 2
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: remindd
+PID: 530
+CPU %: 0.00
+Memory (RSS): 11.91 MB
+Memory (VMS): 416962.03 MB
+Memory %: 0.15
+Threads Count: 6
+Open Files Count: 17
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: amsaccountsd
+PID: 531
+CPU %: 0.00
+Memory (RSS): 10.78 MB
+Memory (VMS): 416947.86 MB
+Memory %: 0.13
+Threads Count: 2
+Open Files Count: 14
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: itunescloudd
+PID: 533
+CPU %: 0.00
+Memory (RSS): 16.00 MB
+Memory (VMS): 416948.19 MB
+Memory %: 0.20
+Threads Count: 2
+Open Files Count: 11
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: followupd
+PID: 534
+CPU %: 0.00
+Memory (RSS): 5.19 MB
+Memory (VMS): 416943.19 MB
+Memory %: 0.06
+Threads Count: 2
+Open Files Count: 1
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: StatusKitAgent
+PID: 535
+CPU %: 0.00
+Memory (RSS): 8.08 MB
+Memory (VMS): 416948.81 MB
+Memory %: 0.10
+Threads Count: 2
+Open Files Count: 10
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: TextInputSwitcher
+PID: 536
+CPU %: 0.00
+Memory (RSS): 16.89 MB
+Memory (VMS): 416991.12 MB
+Memory %: 0.21
+Threads Count: 5
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: CategoriesService
+PID: 540
+CPU %: 0.00
+Memory (RSS): 10.73 MB
+Memory (VMS): 416955.73 MB
+Memory %: 0.13
+Threads Count: 2
+Open Files Count: 8
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: familycircled
+PID: 541
+CPU %: 0.00
+Memory (RSS): 7.38 MB
+Memory (VMS): 416944.03 MB
+Memory %: 0.09
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: siriinferenced
+PID: 542
+CPU %: 0.00
+Memory (RSS): 25.31 MB
+Memory (VMS): 401433.06 MB
+Memory %: 0.31
+Threads Count: 2
+Open Files Count: 4
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ContextService
+PID: 543
+CPU %: 0.00
+Memory (RSS): 6.94 MB
+Memory (VMS): 417049.23 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: 1
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: generativeexperiencesd
+PID: 544
+CPU %: 0.00
+Memory (RSS): 10.70 MB
+Memory (VMS): 416943.81 MB
+Memory %: 0.13
+Threads Count: 2
+Open Files Count: 1
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: AppSSOAgent
+PID: 546
+CPU %: 0.00
+Memory (RSS): 31.48 MB
+Memory (VMS): 401997.02 MB
+Memory %: 0.38
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: homed
+PID: 550
+CPU %: 0.00
+Memory (RSS): 23.41 MB
+Memory (VMS): 416979.64 MB
+Memory %: 0.29
+Threads Count: 2
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: akd
+PID: 553
+CPU %: 0.00
+Memory (RSS): 8.59 MB
+Memory (VMS): 416946.72 MB
+Memory %: 0.10
+Threads Count: 2
+Open Files Count: 5
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: mediaanalysisd
+PID: 554
+CPU %: 0.00
+Memory (RSS): 13.06 MB
+Memory (VMS): 416967.08 MB
+Memory %: 0.16
+Threads Count: 5
+Open Files Count: 14
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: assistantd
+PID: 555
+CPU %: 0.00
+Memory (RSS): 23.36 MB
+Memory (VMS): 416962.81 MB
+Memory %: 0.29
+Threads Count: 4
+Open Files Count: 16
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: searchpartyuseragent
+PID: 556
+CPU %: 0.00
+Memory (RSS): 15.09 MB
+Memory (VMS): 416969.77 MB
+Memory %: 0.18
+Threads Count: 3
+Open Files Count: 14
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: financed
+PID: 559
+CPU %: 0.00
+Memory (RSS): 9.02 MB
+Memory (VMS): 416949.19 MB
+Memory %: 0.11
+Threads Count: 2
+Open Files Count: 14
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: WorldClockWidget
+PID: 561
+CPU %: 0.00
+Memory (RSS): 24.64 MB
+Memory (VMS): 416980.53 MB
+Memory %: 0.30
+Threads Count: 5
+Open Files Count: 2
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: mediaremoteagent
+PID: 563
+CPU %: 0.00
+Memory (RSS): 2.06 MB
+Memory (VMS): 416906.28 MB
+Memory %: 0.03
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: sirittsd
+PID: 565
+CPU %: 0.00
+Memory (RSS): 8.17 MB
+Memory (VMS): 417306.31 MB
+Memory %: 0.10
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: maild
+PID: 566
+CPU %: 0.00
+Memory (RSS): 10.05 MB
+Memory (VMS): 416945.55 MB
+Memory %: 0.12
+Threads Count: 2
+Open Files Count: 5
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: avconferenced
+PID: 567
+CPU %: 0.00
+Memory (RSS): 8.55 MB
+Memory (VMS): 416903.02 MB
+Memory %: 0.10
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: linkd
+PID: 577
+CPU %: 0.00
+Memory (RSS): 17.89 MB
+Memory (VMS): 416974.30 MB
+Memory %: 0.22
+Threads Count: 2
+Open Files Count: 10
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: photolibraryd
+PID: 583
+CPU %: 0.00
+Memory (RSS): 11.59 MB
+Memory (VMS): 416949.41 MB
+Memory %: 0.14
+Threads Count: 2
+Open Files Count: 14
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ScopedBookmarkAgent
+PID: 585
+CPU %: 0.00
+Memory (RSS): 9.66 MB
+Memory (VMS): 416954.00 MB
+Memory %: 0.12
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: PlugInLibraryService
+PID: 587
+CPU %: 0.00
+Memory (RSS): 1.67 MB
+Memory (VMS): 400551.41 MB
+Memory %: 0.02
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: commerce
+PID: 596
+CPU %: 0.00
+Memory (RSS): 5.80 MB
+Memory (VMS): 416912.47 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: postgres
+PID: 599
+CPU %: 0.00
+Memory (RSS): 1.92 MB
+Memory (VMS): 401447.83 MB
+Memory %: 0.02
+Threads Count: 1
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: postgres
+PID: 600
+CPU %: 0.00
+Memory (RSS): 1.62 MB
+Memory (VMS): 401575.83 MB
+Memory %: 0.02
+Threads Count: 1
+Open Files Count: 2
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: postgres
+PID: 602
+CPU %: 0.00
+Memory (RSS): 1.55 MB
+Memory (VMS): 401575.83 MB
+Memory %: 0.02
+Threads Count: 1
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: postgres
+PID: 603
+CPU %: 0.00
+Memory (RSS): 3.16 MB
+Memory (VMS): 401576.83 MB
+Memory %: 0.04
+Threads Count: 1
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: postgres
+PID: 604
+CPU %: 0.00
+Memory (RSS): 2.30 MB
+Memory (VMS): 401576.83 MB
+Memory %: 0.03
+Threads Count: 1
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: swcd
+PID: 612
+CPU %: 0.00
+Memory (RSS): 6.58 MB
+Memory (VMS): 416944.14 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: voicebankingd
+PID: 626
+CPU %: 0.00
+Memory (RSS): 8.62 MB
+Memory (VMS): 416948.61 MB
+Memory %: 0.11
+Threads Count: 2
+Open Files Count: 10
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: siriknowledged
+PID: 635
+CPU %: 0.00
+Memory (RSS): 18.86 MB
+Memory (VMS): 416951.05 MB
+Memory %: 0.23
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: mdbulkimport
+PID: 646
+CPU %: 0.00
+Memory (RSS): 14.59 MB
+Memory (VMS): 416954.66 MB
+Memory %: 0.18
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: SoftwareUpdateNotificationManager
+PID: 647
+CPU %: 0.00
+Memory (RSS): 31.64 MB
+Memory (VMS): 417110.81 MB
+Memory %: 0.39
+Threads Count: 4
+Open Files Count: 8
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: spotlightknowledged
+PID: 653
+CPU %: 0.00
+Memory (RSS): 9.80 MB
+Memory (VMS): 417057.22 MB
+Memory %: 0.12
+Threads Count: 3
+Open Files Count: 43
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: geodMachServiceBridge
+PID: 660
+CPU %: 0.00
+Memory (RSS): 2.41 MB
+Memory (VMS): 416906.86 MB
+Memory %: 0.03
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: SiriAUSP
+PID: 671
+CPU %: 0.00
+Memory (RSS): 8.11 MB
+Memory (VMS): 400629.75 MB
+Memory %: 0.10
+Threads Count: 5
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: WardaSynthesizer_x86_64
+PID: 672
+CPU %: 0.00
+Memory (RSS): 0.21 MB
+Memory (VMS): 33231.50 MB
+Memory %: 0.00
+Threads Count: 8
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: WardaSynthesizer_arm64
+PID: 673
+CPU %: 0.00
+Memory (RSS): 7.08 MB
+Memory (VMS): 400887.23 MB
+Memory %: 0.09
+Threads Count: 5
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: KonaSynthesizer
+PID: 674
+CPU %: 0.00
+Memory (RSS): 7.75 MB
+Memory (VMS): 400876.80 MB
+Memory %: 0.09
+Threads Count: 5
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: MauiAUSP
+PID: 675
+CPU %: 0.00
+Memory (RSS): 9.48 MB
+Memory (VMS): 401134.94 MB
+Memory %: 0.12
+Threads Count: 6
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: MacinTalkAUSP
+PID: 676
+CPU %: 0.00
+Memory (RSS): 10.19 MB
+Memory (VMS): 400886.88 MB
+Memory %: 0.12
+Threads Count: 6
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome
+PID: 717
+CPU %: 0.00
+Memory (RSS): 179.47 MB
+Memory (VMS): 499916.08 MB
+Memory %: 2.19
+Threads Count: 42
+Open Files Count: 233
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: SAExtensionOrchestrator
+PID: 795
+CPU %: 0.00
+Memory (RSS): 12.20 MB
+Memory (VMS): 401178.66 MB
+Memory %: 0.15
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: chrome_crashpad_handler
+PID: 797
+CPU %: 0.00
+Memory (RSS): 2.05 MB
+Memory (VMS): 449677.86 MB
+Memory %: 0.02
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: BiomeSELFIngestor
+PID: 799
+CPU %: 0.00
+Memory (RSS): 6.98 MB
+Memory (VMS): 416920.64 MB
+Memory %: 0.09
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: GMSSELFIngestor
+PID: 802
+CPU %: 0.00
+Memory (RSS): 7.56 MB
+Memory (VMS): 416953.36 MB
+Memory %: 0.09
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: IFTranscriptSELFIngestor
+PID: 803
+CPU %: 0.00
+Memory (RSS): 6.73 MB
+Memory (VMS): 416920.64 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: IFTelemetrySELFIngestor
+PID: 804
+CPU %: 0.00
+Memory (RSS): 6.50 MB
+Memory (VMS): 416920.78 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper
+PID: 805
+CPU %: 0.00
+Memory (RSS): 71.72 MB
+Memory (VMS): 450947.05 MB
+Memory %: 0.88
+Threads Count: 18
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper
+PID: 806
+CPU %: 0.00
+Memory (RSS): 66.30 MB
+Memory (VMS): 450227.09 MB
+Memory %: 0.81
+Threads Count: 17
+Open Files Count: 13
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper
+PID: 808
+CPU %: 0.00
+Memory (RSS): 31.28 MB
+Memory (VMS): 450174.58 MB
+Memory %: 0.38
+Threads Count: 11
+Open Files Count: 23
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper (Renderer)
+PID: 825
+CPU %: 5.80
+Memory (RSS): 517.67 MB
+Memory (VMS): 1823726.33 MB
+Memory %: 6.32
+Threads Count: 30
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: spotlightknowledged
+PID: 857
+CPU %: 0.00
+Memory (RSS): 9.16 MB
+Memory (VMS): 401546.62 MB
+Memory %: 0.11
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: CalendarIntentsExtension
+PID: 862
+CPU %: 0.00
+Memory (RSS): 8.80 MB
+Memory (VMS): 416963.89 MB
+Memory %: 0.11
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: SafariLinkExtension
+PID: 864
+CPU %: 0.00
+Memory (RSS): 8.52 MB
+Memory (VMS): 416963.88 MB
+Memory %: 0.10
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: MTLAssetUpgraderD
+PID: 865
+CPU %: 0.00
+Memory (RSS): 6.00 MB
+Memory (VMS): 416944.11 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: duetexpertd
+PID: 866
+CPU %: 0.10
+Memory (RSS): 30.38 MB
+Memory (VMS): 416988.75 MB
+Memory %: 0.37
+Threads Count: 3
+Open Files Count: 21
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: MessagesActionExtension
+PID: 868
+CPU %: 0.00
+Memory (RSS): 16.92 MB
+Memory (VMS): 416954.44 MB
+Memory %: 0.21
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: SetStoreUpdateService
+PID: 874
+CPU %: 0.00
+Memory (RSS): 7.55 MB
+Memory (VMS): 416943.98 MB
+Memory %: 0.09
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: AppPredictionIntentsHelperService
+PID: 880
+CPU %: 0.00
+Memory (RSS): 20.80 MB
+Memory (VMS): 401554.52 MB
+Memory %: 0.25
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: mdworker
+PID: 890
+CPU %: 0.00
+Memory (RSS): 4.42 MB
+Memory (VMS): 416911.17 MB
+Memory %: 0.05
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper (Renderer)
+PID: 920
+CPU %: 0.00
+Memory (RSS): 64.33 MB
+Memory (VMS): 1821728.39 MB
+Memory %: 0.79
+Threads Count: 17
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: contentlinkingd
+PID: 922
+CPU %: 0.00
+Memory (RSS): 7.55 MB
+Memory (VMS): 416944.09 MB
+Memory %: 0.09
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper
+PID: 934
+CPU %: 1.00
+Memory (RSS): 32.42 MB
+Memory (VMS): 450324.92 MB
+Memory %: 0.40
+Threads Count: 14
+Open Files Count: 6
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper (Plugin)
+PID: 937
+CPU %: 0.00
+Memory (RSS): 33.70 MB
+Memory (VMS): 450214.95 MB
+Memory %: 0.41
+Threads Count: 13
+Open Files Count: 6
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: SiriNCService
+PID: 950
+CPU %: 0.00
+Memory (RSS): 16.75 MB
+Memory (VMS): 416962.45 MB
+Memory %: 0.20
+Threads Count: 5
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Avast
+PID: 997
+CPU %: 0.10
+Memory (RSS): 37.94 MB
+Memory (VMS): 406245.75 MB
+Memory %: 0.46
+Threads Count: 5
+Open Files Count: 6
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: VTDecoderXPCService
+PID: 1012
+CPU %: 0.00
+Memory (RSS): 4.00 MB
+Memory (VMS): 416891.34 MB
+Memory %: 0.05
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: tipsd
+PID: 1029
+CPU %: 0.00
+Memory (RSS): 15.03 MB
+Memory (VMS): 416955.64 MB
+Memory %: 0.18
+Threads Count: 2
+Open Files Count: 8
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: PasswordBreachAgent
+PID: 1042
+CPU %: 0.00
+Memory (RSS): 4.55 MB
+Memory (VMS): 416944.33 MB
+Memory %: 0.06
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: dataaccessd
+PID: 1043
+CPU %: 0.00
+Memory (RSS): 10.45 MB
+Memory (VMS): 416950.56 MB
+Memory %: 0.13
+Threads Count: 2
+Open Files Count: 5
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: OSDUIHelper
+PID: 1049
+CPU %: 0.00
+Memory (RSS): 12.58 MB
+Memory (VMS): 401643.27 MB
+Memory %: 0.15
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper (Renderer)
+PID: 1067
+CPU %: 0.10
+Memory (RSS): 278.95 MB
+Memory (VMS): 1823692.69 MB
+Memory %: 3.41
+Threads Count: 19
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ProtectedCloudKeySyncing
+PID: 1070
+CPU %: 0.00
+Memory (RSS): 6.53 MB
+Memory (VMS): 416910.88 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: 6
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper (Renderer)
+PID: 1072
+CPU %: 0.00
+Memory (RSS): 59.53 MB
+Memory (VMS): 1821733.91 MB
+Memory %: 0.73
+Threads Count: 14
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: mapssyncd
+PID: 1102
+CPU %: 0.00
+Memory (RSS): 8.56 MB
+Memory (VMS): 416948.92 MB
+Memory %: 0.10
+Threads Count: 2
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: com.apple.WebKit.Networking
+PID: 1156
+CPU %: 0.00
+Memory (RSS): 10.80 MB
+Memory (VMS): 421234.84 MB
+Memory %: 0.13
+Threads Count: 3
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ChatGPT
+PID: 1159
+CPU %: 15.40
+Memory (RSS): 200.98 MB
+Memory (VMS): 407325.34 MB
+Memory %: 2.45
+Threads Count: 16
+Open Files Count: 14
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: inputanalyticsd
+PID: 1160
+CPU %: 0.00
+Memory (RSS): 7.84 MB
+Memory (VMS): 416944.20 MB
+Memory %: 0.10
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: universalAccessAuthWarn
+PID: 1166
+CPU %: 0.00
+Memory (RSS): 30.52 MB
+Memory (VMS): 401867.16 MB
+Memory %: 0.37
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: AudiovisualThumbnailExtension
+PID: 1179
+CPU %: 0.00
+Memory (RSS): 10.25 MB
+Memory (VMS): 416966.31 MB
+Memory %: 0.13
+Threads Count: 8
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: mdwrite
+PID: 1188
+CPU %: 0.00
+Memory (RSS): 2.30 MB
+Memory (VMS): 416906.98 MB
+Memory %: 0.03
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: amsondevicestoraged
+PID: 1257
+CPU %: 0.00
+Memory (RSS): 14.03 MB
+Memory (VMS): 416947.08 MB
+Memory %: 0.17
+Threads Count: 3
+Open Files Count: 8
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: devicecheckd
+PID: 1258
+CPU %: 0.00
+Memory (RSS): 6.25 MB
+Memory (VMS): 416943.05 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Electron
+PID: 1265
+CPU %: 0.00
+Memory (RSS): 155.95 MB
+Memory (VMS): 1823844.94 MB
+Memory %: 1.90
+Threads Count: 40
+Open Files Count: 69
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: chrome_crashpad_handler
+PID: 1267
+CPU %: 0.00
+Memory (RSS): 2.42 MB
+Memory (VMS): 433293.61 MB
+Memory %: 0.03
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Code Helper (GPU)
+PID: 1268
+CPU %: 0.60
+Memory (RSS): 63.42 MB
+Memory (VMS): 450341.12 MB
+Memory %: 0.77
+Threads Count: 16
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Code Helper
+PID: 1269
+CPU %: 0.00
+Memory (RSS): 33.20 MB
+Memory (VMS): 433624.28 MB
+Memory %: 0.41
+Threads Count: 13
+Open Files Count: 11
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Code Helper
+PID: 1292
+CPU %: 0.00
+Memory (RSS): 60.64 MB
+Memory (VMS): 1823265.97 MB
+Memory %: 0.74
+Threads Count: 23
+Open Files Count: 7
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: AppleSpell
+PID: 1294
+CPU %: 0.00
+Memory (RSS): 18.98 MB
+Memory (VMS): 417472.12 MB
+Memory %: 0.23
+Threads Count: 2
+Open Files Count: 11
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: keyboardservicesd
+PID: 1296
+CPU %: 0.00
+Memory (RSS): 8.12 MB
+Memory (VMS): 416948.16 MB
+Memory %: 0.10
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: cloudphotod
+PID: 1350
+CPU %: 0.00
+Memory (RSS): 5.80 MB
+Memory (VMS): 416945.91 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: photoanalysisd
+PID: 1351
+CPU %: 0.00
+Memory (RSS): 16.67 MB
+Memory (VMS): 416951.27 MB
+Memory %: 0.20
+Threads Count: 2
+Open Files Count: 7
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: analyticsagent
+PID: 1352
+CPU %: 0.00
+Memory (RSS): 6.64 MB
+Memory (VMS): 416947.05 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Code Helper
+PID: 1355
+CPU %: 0.50
+Memory (RSS): 48.66 MB
+Memory (VMS): 1823225.86 MB
+Memory %: 0.59
+Threads Count: 23
+Open Files Count: 8
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: mlhostd
+PID: 1410
+CPU %: 0.00
+Memory (RSS): 10.25 MB
+Memory (VMS): 416954.17 MB
+Memory %: 0.13
+Threads Count: 2
+Open Files Count: 2
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: businessservicesd
+PID: 1411
+CPU %: 0.00
+Memory (RSS): 5.97 MB
+Memory (VMS): 416943.42 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: MessagesBlastDoorService
+PID: 1412
+CPU %: 0.00
+Memory (RSS): 0.36 MB
+Memory (VMS): 416944.64 MB
+Memory %: 0.00
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: com.apple.siri.embeddedspeech
+PID: 1413
+CPU %: 0.00
+Memory (RSS): 8.09 MB
+Memory (VMS): 416965.56 MB
+Memory %: 0.10
+Threads Count: 2
+Open Files Count: 1
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: extensionkitservice
+PID: 1414
+CPU %: 0.00
+Memory (RSS): 4.64 MB
+Memory (VMS): 416911.39 MB
+Memory %: 0.06
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: backgroundassets.user
+PID: 1421
+CPU %: 0.00
+Memory (RSS): 5.53 MB
+Memory (VMS): 416907.28 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: nbagent
+PID: 1424
+CPU %: 0.00
+Memory (RSS): 38.52 MB
+Memory (VMS): 421389.38 MB
+Memory %: 0.47
+Threads Count: 3
+Open Files Count: 8
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: RemoteManagementAgent
+PID: 1428
+CPU %: 0.00
+Memory (RSS): 6.17 MB
+Memory (VMS): 416945.17 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: SafariConfigurationSubscriber
+PID: 1429
+CPU %: 0.00
+Memory (RSS): 5.83 MB
+Memory (VMS): 401160.61 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: SecuritySubscriber
+PID: 1430
+CPU %: 0.00
+Memory (RSS): 4.19 MB
+Memory (VMS): 401254.47 MB
+Memory %: 0.05
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: InteractiveLegacyProfilesSubscriber
+PID: 1431
+CPU %: 0.00
+Memory (RSS): 4.16 MB
+Memory (VMS): 401126.39 MB
+Memory %: 0.05
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ScreenSharingSubscriber
+PID: 1432
+CPU %: 0.00
+Memory (RSS): 5.81 MB
+Memory (VMS): 401126.92 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: LegacyProfilesSubscriber
+PID: 1436
+CPU %: 0.00
+Memory (RSS): 4.12 MB
+Memory (VMS): 401126.41 MB
+Memory %: 0.05
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: PasscodeSettingsSubscriber
+PID: 1437
+CPU %: 0.00
+Memory (RSS): 4.14 MB
+Memory (VMS): 401382.44 MB
+Memory %: 0.05
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: AccountSubscriber
+PID: 1438
+CPU %: 0.00
+Memory (RSS): 5.95 MB
+Memory (VMS): 401126.47 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ManagementTestSubscriber
+PID: 1439
+CPU %: 0.00
+Memory (RSS): 4.16 MB
+Memory (VMS): 401126.41 MB
+Memory %: 0.05
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ASConfigurationSubscriber
+PID: 1440
+CPU %: 0.00
+Memory (RSS): 6.09 MB
+Memory (VMS): 401162.59 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ManagedSettingsSubscriber
+PID: 1441
+CPU %: 0.00
+Memory (RSS): 4.41 MB
+Memory (VMS): 401126.98 MB
+Memory %: 0.05
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: parsec-fbf
+PID: 1448
+CPU %: 0.00
+Memory (RSS): 5.53 MB
+Memory (VMS): 416946.72 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: proactiveeventtrackerd
+PID: 1454
+CPU %: 0.00
+Memory (RSS): 4.72 MB
+Memory (VMS): 416944.50 MB
+Memory %: 0.06
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper (Renderer)
+PID: 1461
+CPU %: 0.00
+Memory (RSS): 155.72 MB
+Memory (VMS): 1825165.00 MB
+Memory %: 1.90
+Threads Count: 23
+Open Files Count: 11
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: proactived
+PID: 1492
+CPU %: 0.00
+Memory (RSS): 16.20 MB
+Memory (VMS): 416955.95 MB
+Memory %: 0.20
+Threads Count: 4
+Open Files Count: 1
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: media-indexer
+PID: 1498
+CPU %: 0.00
+Memory (RSS): 9.36 MB
+Memory (VMS): 416970.47 MB
+Memory %: 0.11
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: AMPLibraryAgent
+PID: 1499
+CPU %: 0.00
+Memory (RSS): 13.53 MB
+Memory (VMS): 416986.39 MB
+Memory %: 0.17
+Threads Count: 5
+Open Files Count: 10
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: PodcastContentService
+PID: 1502
+CPU %: 0.00
+Memory (RSS): 4.70 MB
+Memory (VMS): 416944.81 MB
+Memory %: 0.06
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: com.apple.BKAgentService
+PID: 1503
+CPU %: 0.00
+Memory (RSS): 6.84 MB
+Memory (VMS): 416943.83 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: AMPArtworkAgent
+PID: 1504
+CPU %: 0.00
+Memory (RSS): 5.78 MB
+Memory (VMS): 416950.30 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: ndoagent
+PID: 1518
+CPU %: 0.00
+Memory (RSS): 5.56 MB
+Memory (VMS): 416939.52 MB
+Memory %: 0.07
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Code Helper (Renderer)
+PID: 1575
+CPU %: 0.20
+Memory (RSS): 280.11 MB
+Memory (VMS): 1841363.83 MB
+Memory %: 3.42
+Threads Count: 19
+Open Files Count: 6
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: com.apple.appkit.xpc.openAndSavePanelService
+PID: 1583
+CPU %: 0.00
+Memory (RSS): 61.00 MB
+Memory (VMS): 401530.00 MB
+Memory %: 0.74
+Threads Count: 4
+Open Files Count: 6
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: QuickLookUIService
+PID: 1584
+CPU %: 0.00
+Memory (RSS): 15.33 MB
+Memory (VMS): 416906.33 MB
+Memory %: 0.19
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: CSExattrCryptoService
+PID: 1587
+CPU %: 0.00
+Memory (RSS): 2.97 MB
+Memory (VMS): 401167.09 MB
+Memory %: 0.04
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Code Helper
+PID: 1589
+CPU %: 0.00
+Memory (RSS): 48.78 MB
+Memory (VMS): 1823277.58 MB
+Memory %: 0.60
+Threads Count: 25
+Open Files Count: 9
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Code Helper (Plugin)
+PID: 1590
+CPU %: 0.30
+Memory (RSS): 125.88 MB
+Memory (VMS): 1823273.25 MB
+Memory %: 1.54
+Threads Count: 22
+Open Files Count: 19
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: MTLCompilerService
+PID: 1593
+CPU %: 0.00
+Memory (RSS): 2.88 MB
+Memory (VMS): 416972.67 MB
+Memory %: 0.04
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: zsh
+PID: 1594
+CPU %: 0.00
+Memory (RSS): 1.28 MB
+Memory (VMS): 400770.19 MB
+Memory %: 0.02
+Threads Count: 1
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: pet
+PID: 1736
+CPU %: 0.00
+Memory (RSS): 2.83 MB
+Memory (VMS): 401164.94 MB
+Memory %: 0.03
+Threads Count: 1
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: zsh
+PID: 1741
+CPU %: 0.00
+Memory (RSS): 1.30 MB
+Memory (VMS): 400633.19 MB
+Memory %: 0.02
+Threads Count: 1
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Code Helper (Plugin)
+PID: 1746
+CPU %: 0.00
+Memory (RSS): 309.98 MB
+Memory (VMS): 1824856.84 MB
+Memory %: 3.78
+Threads Count: 16
+Open Files Count: 2
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Terminal
+PID: 1822
+CPU %: 0.00
+Memory (RSS): 105.81 MB
+Memory (VMS): 402478.38 MB
+Memory %: 1.29
+Threads Count: 9
+Open Files Count: 3
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: zsh
+PID: 1826
+CPU %: 0.00
+Memory (RSS): 1.47 MB
+Memory (VMS): 401290.48 MB
+Memory %: 0.02
+Threads Count: 1
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: spindump_agent
+PID: 1870
+CPU %: 0.00
+Memory (RSS): 2.55 MB
+Memory (VMS): 416906.88 MB
+Memory %: 0.03
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: feedbackd
+PID: 1910
+CPU %: 0.00
+Memory (RSS): 6.56 MB
+Memory (VMS): 416906.91 MB
+Memory %: 0.08
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper (Renderer)
+PID: 1926
+CPU %: 0.00
+Memory (RSS): 77.03 MB
+Memory (VMS): 1823350.80 MB
+Memory %: 0.94
+Threads Count: 12
+Open Files Count: 8
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Python
+PID: 1936
+CPU %: 18.90
+Memory (RSS): 15.41 MB
+Memory (VMS): 401900.20 MB
+Memory %: 0.19
+Threads Count: 1
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: Google Chrome Helper (Renderer)
+PID: 1941
+CPU %: 0.00
+Memory (RSS): 58.97 MB
+Memory (VMS): 1821687.61 MB
+Memory %: 0.72
+Threads Count: 11
+Open Files Count: 8
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: PlugInLibraryService
+PID: 1943
+CPU %: 0.00
+Memory (RSS): 2.22 MB
+Memory (VMS): 400550.41 MB
+Memory %: 0.03
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: extensionkitservice
+PID: 1944
+CPU %: 0.00
+Memory (RSS): 7.03 MB
+Memory (VMS): 416920.78 MB
+Memory %: 0.09
+Threads Count: 2
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: IntelligencePlatformComputeService
+PID: 1946
+CPU %: 0.00
+Memory (RSS): 17.56 MB
+Memory (VMS): 416947.41 MB
+Memory %: 0.21
+Threads Count: 2
+Open Files Count: 55
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: remotepairingd
+PID: 1951
+CPU %: 0.00
+Memory (RSS): 8.52 MB
+Memory (VMS): 401069.33 MB
+Memory %: 0.10
+Threads Count: 3
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: mdworker_shared
+PID: 1958
+CPU %: 0.00
+Memory (RSS): 16.95 MB
+Memory (VMS): 416960.98 MB
+Memory %: 0.21
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: mdworker_shared
+PID: 1960
+CPU %: 0.00
+Memory (RSS): 25.06 MB
+Memory (VMS): 416960.98 MB
+Memory %: 0.31
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: mdworker_shared
+PID: 1972
+CPU %: 0.00
+Memory (RSS): 20.12 MB
+Memory (VMS): 416960.98 MB
+Memory %: 0.25
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+Timestamp: 2026-02-15 08:57:18
+Process Name: mdworker_shared
+PID: 1975
+CPU %: 0.00
+Memory (RSS): 12.72 MB
+Memory (VMS): 416960.98 MB
+Memory %: 0.16
+Threads Count: 4
+Open Files Count: 0
+------------------------------------------------------------
+------------------------------------------------------------
+----------------- End of Log File ----------------
+------------------------------------------------------------
