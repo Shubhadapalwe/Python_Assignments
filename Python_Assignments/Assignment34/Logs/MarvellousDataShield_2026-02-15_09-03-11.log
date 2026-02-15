@@ -1,0 +1,8 @@
+[2026-02-15 09:03:11] --------------------------------------------------
+[2026-02-15 09:03:11] Backup Process Started successfully at: Sun Feb 15 09:03:11 2026
+[2026-02-15 09:03:11] Source Directory: Data
+[2026-02-15 09:03:11] Backup Directory: MarvellousBackup
+[2026-02-15 09:03:11] Ignoring extensions: ['.exe', '.log', '.tmp']
+[2026-02-15 09:03:11] Ignoring directories: ['.git', 'Logs', 'MarvellousBackup', '__pycache__']
+[2026-02-15 09:03:11] --------------------------------------------------
+[2026-02-15 09:03:11] ERROR: Source directory not found: Data
